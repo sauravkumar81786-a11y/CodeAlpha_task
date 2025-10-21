@@ -1,6 +1,6 @@
 # 📊 Global Superstore Sales Dashboard (Power BI)
 
-![Global Superstore Dashboard]()
+![Global Superstore Dashboard](https://github.com/sauravkumar81786-a11y/CodeAlpha_task/blob/main/Screenshot%202025-09-13%20161626.png)
 
 ---
 
