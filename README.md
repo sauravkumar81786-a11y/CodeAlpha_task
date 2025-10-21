@@ -62,7 +62,6 @@ This dashboard enables **data-driven decision-making** by helping business leade
 
 ---
 
-## 📂 Project Structure
 
 
 
